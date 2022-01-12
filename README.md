@@ -3,27 +3,11 @@
 ### Hi there, I'm HamidReza 👋 
 ## I'm a Android Developer... 
 
-<br />
-<br />
-<br />
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidreza-mj&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidreza-mj&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
-
-### Connect with me:
-
-[<img align="left" alt="mohamadjafari.ir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
-<br>
 
 ### Languages and Tools:
 
@@ -39,8 +23,23 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <br />
 <br />
+<br />
+
+
+### Connect with me:
+
+[<img align="left" alt="mohamadjafari.ir" width="22px"  height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="Twitter" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+[<img align="left" alt="LinkedIn" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br>
+<br>
 
 ---
+
 
 
 [site][website]
