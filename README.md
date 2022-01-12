@@ -35,6 +35,9 @@
 [<img align="left" alt="LinkedIn" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[<img align="left" alt="Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 <br>
 <br>
 
@@ -59,4 +62,5 @@
 [website]: https://mohamadjafari.ir
 [telegram]: https://t.me/HaMiDrEzA3131
 [instagram]: https://instagram.com/hamidreza_m313
-[linkedin]: https://www.linkedin.com/in/hamidreza-mohammad-jafari
+[linkedin]: https://www.linkedin.com/in/
+[mail]: mailto:hamidreza@mohamadjafari.ir
