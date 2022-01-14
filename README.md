@@ -1,7 +1,9 @@
 
 
 ### Hi there, I'm HamidReza 👋 
-## I'm a Android Developer... 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232C72F7&lines=I'm+a+Android+Developer...+)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidreza-mj&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
