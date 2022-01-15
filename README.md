@@ -64,5 +64,5 @@
 [website]: https://mohamadjafari.ir
 [telegram]: https://t.me/HaMiDrEzA3131
 [instagram]: https://instagram.com/hamidreza_m313
-[linkedin]: https://www.linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/hamidreza-mohammad-jafari
 [mail]: mailto:hamidreza@mohamadjafari.ir
