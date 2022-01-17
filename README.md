@@ -12,30 +12,32 @@
 <br />
 
 ### Languages and Tools:
+  <img src="https://img.shields.io/badge/android-FFCDD2?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/java-F8BBD0?style=for-the-badge&logo=java&logoColor=red" />
+  <img src="https://img.shields.io/badge/kotlin-E1BEE7?style=for-the-badge&logo=kotlin" />
+  <img src="https://img.shields.io/badge/php-D1C4E9?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/laravel-C5CAE9?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/mysql-BBDEFB?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/terminal-B3E5FC?style=for-the-badge&logo=windowsterminal&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-B2EBF2?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/github-B2DFDB?style=for-the-badge&logo=github&logoColor=blue" />
+  <img src="https://img.shields.io/badge/linux-C8E6C9?style=for-the-badge&logo=linux&logoColor=teal" />
+  <img src="https://img.shields.io/badge/vs code-FFF9C4?style=for-the-badge&logo=visualstudiocode&logoColor=blue" />
+  <img src="https://img.shields.io/badge/android studio-FFECB3?style=for-the-badge&logo=androidstudio" />
+  <img src="https://img.shields.io/badge/intellij idea-FFE0B2?style=for-the-badge&logo=intellijidea&logoColor=black" />
+  <img src="https://img.shields.io/badge/figma-FFCCBC?style=for-the-badge&logo=figma&logoColor=blue" />
+  <img src="https://img.shields.io/badge/insomnia-D7CCC8?style=for-the-badge&logo=insomnia&logoColor=purple" />
 
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<br />
-<br />
-<br />
+---
 
 
 ### Connect with me:
 
-[![Website](https://img.shields.io/badge/website-133758?style=for-the-badge&logo=googlechrome&logoColor=white)][website]
+[![Website](https://img.shields.io/badge/website-133758?style=for-the-badge&logo=googlechrome&logoColor=yellow)][website]
 [![Telegram](https://img.shields.io/badge/telegram-C3E5FF?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
 [![Instagram](https://img.shields.io/badge/Instagram-FF2E63?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Website](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)][github]
+[![Website](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=blue)][github]
 [![E-mail](https://img.shields.io/badge/MAIL-248A3D?style=for-the-badge&logo=gmail&logoColor=white)][mail]
-<br>
 <br>
 
 ---
