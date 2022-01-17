@@ -12,9 +12,7 @@
 <br />
 
 ### Languages and Tools:
-  <img src="https://img.shields.io/badge/android-FFCDD2?style=for-the-badge&logo=android" />
-  <img src="https://img.shields.io/badge/java-F8BBD0?style=for-the-badge&logo=java&logoColor=red" />
-  <img src="https://img.shields.io/badge/kotlin-E1BEE7?style=for-the-badge&logo=kotlin" />
+  <img src="https://img.shields.io/badge/android-FFCDD2?style=for-the-badge&logo=android" /> <img src="https://img.shields.io/badge/java-F8BBD0?style=for-the-badge&logo=java&logoColor=red" />  <img src="https://img.shields.io/badge/kotlin-E1BEE7?style=for-the-badge&logo=kotlin" />
   <img src="https://img.shields.io/badge/php-D1C4E9?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/laravel-C5CAE9?style=for-the-badge&logo=laravel" />
   <img src="https://img.shields.io/badge/mysql-BBDEFB?style=for-the-badge&logo=mysql" />
