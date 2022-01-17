@@ -30,24 +30,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mohamadjafari.ir" width="22px"  height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="Twitter" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-[<img align="left" alt="LinkedIn" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[<img align="left" alt="Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[![Website](https://img.shields.io/badge/website-133758?style=for-the-badge&logo=googlechrome&logoColor=white)][website]
+[![Telegram](https://img.shields.io/badge/telegram-C3E5FF?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
+[![Instagram](https://img.shields.io/badge/Instagram-FF2E63?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Website](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)][github]
+[![E-mail](https://img.shields.io/badge/MAIL-248A3D?style=for-the-badge&logo=gmail&logoColor=white)][mail]
 <br>
 <br>
-
----
-
-
-
-[site][website]
 
 ---
 
@@ -66,3 +55,4 @@
 [instagram]: https://instagram.com/hamidreza_m313
 [linkedin]: https://www.linkedin.com/in/hamidreza-mohammad-jafari
 [mail]: mailto:hamidreza@mohamadjafari.ir
+[github]: https://github.com/Hamidreza-mj
