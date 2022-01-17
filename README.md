@@ -5,16 +5,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232C72F7&lines=I'm+a+Android+Developer...+)](https://git.io/typing-svg)
 
+
+### Languages and Tools:
+  <img src="https://img.shields.io/badge/android-FFCDD2?style=for-the-badge&logo=android" /> <img src="https://img.shields.io/badge/java-F8BBD0?style=for-the-badge&logo=java&logoColor=red" />  <img src="https://img.shields.io/badge/kotlin-E1BEE7?style=for-the-badge&logo=kotlin" /> <img src="https://img.shields.io/badge/php-D1C4E9?style=for-the-badge&logo=php" /> <img src="https://img.shields.io/badge/laravel-C5CAE9?style=for-the-badge&logo=laravel" /> <img src="https://img.shields.io/badge/mysql-BBDEFB?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/terminal-B3E5FC?style=for-the-badge&logo=windowsterminal&logoColor=black" /> <img src="https://img.shields.io/badge/git-B2EBF2?style=for-the-badge&logo=git" /> <img src="https://img.shields.io/badge/github-B2DFDB?style=for-the-badge&logo=github&logoColor=blue" /> <img src="https://img.shields.io/badge/linux-C8E6C9?style=for-the-badge&logo=linux&logoColor=teal" /> <img src="https://img.shields.io/badge/vs code-FFF9C4?style=for-the-badge&logo=visualstudiocode&logoColor=blue" /> <img src="https://img.shields.io/badge/android studio-FFECB3?style=for-the-badge&logo=androidstudio" /> <img src="https://img.shields.io/badge/intellij idea-FFE0B2?style=for-the-badge&logo=intellijidea&logoColor=black" /> <img src="https://img.shields.io/badge/figma-FFCCBC?style=for-the-badge&logo=figma&logoColor=blue" /> <img src="https://img.shields.io/badge/insomnia-D7CCC8?style=for-the-badge&logo=insomnia&logoColor=purple" />
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidreza-mj&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidreza-mj&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
-
-### Languages and Tools:
-  <img src="https://img.shields.io/badge/android-FFCDD2?style=for-the-badge&logo=android" /> <img src="https://img.shields.io/badge/java-F8BBD0?style=for-the-badge&logo=java&logoColor=red" />  <img src="https://img.shields.io/badge/kotlin-E1BEE7?style=for-the-badge&logo=kotlin" /> <img src="https://img.shields.io/badge/php-D1C4E9?style=for-the-badge&logo=php" /> <img src="https://img.shields.io/badge/laravel-C5CAE9?style=for-the-badge&logo=laravel" /> <img src="https://img.shields.io/badge/mysql-BBDEFB?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/terminal-B3E5FC?style=for-the-badge&logo=windowsterminal&logoColor=black" /> <img src="https://img.shields.io/badge/git-B2EBF2?style=for-the-badge&logo=git" /> <img src="https://img.shields.io/badge/github-B2DFDB?style=for-the-badge&logo=github&logoColor=blue" /> <img src="https://img.shields.io/badge/linux-C8E6C9?style=for-the-badge&logo=linux&logoColor=teal" /> <img src="https://img.shields.io/badge/vs code-FFF9C4?style=for-the-badge&logo=visualstudiocode&logoColor=blue" /> <img src="https://img.shields.io/badge/android studio-FFECB3?style=for-the-badge&logo=androidstudio" /> <img src="https://img.shields.io/badge/intellij idea-FFE0B2?style=for-the-badge&logo=intellijidea&logoColor=black" /> <img src="https://img.shields.io/badge/figma-FFCCBC?style=for-the-badge&logo=figma&logoColor=blue" /> <img src="https://img.shields.io/badge/insomnia-D7CCC8?style=for-the-badge&logo=insomnia&logoColor=purple" />
-
----
 
 
 ### Connect with me:
