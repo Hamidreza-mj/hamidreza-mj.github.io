@@ -22,7 +22,8 @@
 [![Website](https://img.shields.io/badge/website-133758?style=for-the-badge&logo=googlechrome&logoColor=yellow)][website]
 [![Telegram](https://img.shields.io/badge/telegram-C3E5FF?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
 [![Instagram](https://img.shields.io/badge/Instagram-FF2E63?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Website](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=blue)][github]
+[![LinkedIn](https://img.shields.io/badge/linkedin-1264C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=blue)][github]
 [![E-mail](https://img.shields.io/badge/MAIL-248A3D?style=for-the-badge&logo=gmail&logoColor=white)][mail]
 <br>
 
