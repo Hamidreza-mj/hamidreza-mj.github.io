@@ -39,7 +39,7 @@
 </details>
 
 <!-- variables -->
-[website]: https://mohamadjafari.ir
+[website]: https://hamidreza.in/
 [telegram]: https://t.me/HaMiDrEzA3131
 [instagram]: https://instagram.com/hamidreza_m313
 [linkedin]: https://www.linkedin.com/in/hamidreza-mohammad-jafari
