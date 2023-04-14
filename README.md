@@ -41,7 +41,7 @@
 <!-- variables -->
 [website]: https://hamidreza.in/
 [telegram]: https://t.me/HaMiDrEzA3131
-[instagram]: https://instagram.com/hamidreza_m313
+[instagram]: https://instagram.com/hamidreza._.mj
 [linkedin]: https://www.linkedin.com/in/hamidreza-mohammad-jafari
 [mail]: mailto:hamidreza@mohamadjafari.ir
 [github]: https://github.com/Hamidreza-mj
